@@ -19,6 +19,7 @@ model = model.fit(x_train,y_train)
 model = model.score(x_test,y_test)
 print(model)
 
+#SCORE = 0.815043156596794
 
 """
 model = linear_model.LogisticRegression()
